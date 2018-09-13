@@ -40,7 +40,7 @@ On n'utilise pas le terme [Walking Dev](http://walkingdev.fr/).
 On parle principalement du sujet de la journée, et on précise que cette journée s'incrit dans le cadre de notre projet (à définir : comment on parle de notre projet en bref).
 
 ## Les Journées de cogitations qui arrivent
-- Montpellier en septembre, plutôt en semaine
+- Montpellier le jeudi 27 septembre
 - Bordeaux idéalement en septembre mais ça devient chaud non ?
 - Lyon en octobre
 
