@@ -5,12 +5,12 @@
 - Mieux définir ce qu’on va faire avec notre "non-incubateur".
 
 ## Exemples d'objectifs des journées de cogitation
-- Mieux définir ce qu’on va faire avec notre "non-incubateur"
-- Des idées pour agir sur les problèmes environnementaux ? <3
+- Des idées pour agir sur les problèmes environnementaux ?
 - Rendre son projet environnemental économiquement viable <3
 - Débat moral sur "sauver la planète" ou "sauver l'humanité"
 - Est-ce que prendre des douches plus courtes, ça sert ?
 - Créer une app sur xyz
+- Comment créer les conditions favorables aux projets à impact environnemental ? *ou* De quoi ont-ils besoin ? 
 
 Et pour plus tard peut-être : 
 - Un impact environnemental positif depuis mon balcon
