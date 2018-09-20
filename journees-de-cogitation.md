@@ -4,6 +4,15 @@
 - Rencontrer des gens avec qui on pourrait travailler ensuite, éventuellement des porteu·r·se·s de projet (c'est pas la priorité).
 - Mieux définir ce qu’on va faire avec notre "non-incubateur".
 
+## Dates
+- Montpellier : 4/10
+- Bordeaux : 11/10
+- Lyon : 18/10
+- Nantes : 25/10
+- Toulouse : 1/11
+- Paris : 8/11
+
+
 ## Exemples d'objectifs des journées de cogitation
 - Des idées pour agir sur les problèmes environnementaux ?
 - Rendre son projet environnemental économiquement viable <3
