@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Journée de cogitation",
+        "name": "Jeudi 25 octobre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558223,
+          47.208431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bordeaux : jeudi 11 octobre",
+        "description": "Journée de cogitation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.569201,
+          44.814272
+        ]
+      }
+    }
+  ]
+}
