@@ -1,5 +1,7 @@
 # Journées de cogitation
 
+*Infos pratiques sur le déroulement des journées [dans la FAQ ici](FAQ-journee-cogitation.md)*
+
 ## Objectifs du Tour de France
 - Rencontrer des gens avec qui on pourrait travailler ensuite, éventuellement des porteu·r·se·s de projet (c'est pas la priorité).
 - Mieux définir ce qu’on va faire avec notre "non-incubateur".
