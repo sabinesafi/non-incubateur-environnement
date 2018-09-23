@@ -1,6 +1,7 @@
 # Le 27/09 à Montpellier : Rendre mon projet environnemental économiquement viable
 
 On se retrouve le jeudi 27/09, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
@@ -31,7 +32,7 @@ On commence la ballade en échangeant sur les attentes et en définissant le pro
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
-Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)
+**Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
 
 ## Qui organise ?
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
@@ -47,4 +48,4 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 Envoie simplement un email à sabine.safi at gmail.com.
 Avant la journée, on s'appelera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
-**Pour plus d'informations : [voir la FAQ]()**
+**Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
