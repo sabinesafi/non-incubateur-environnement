@@ -1,6 +1,7 @@
 # Le 27/09 à Montpellier : Rendre mon projet environnemental économiquement viable
 
 On se retrouve le jeudi 27/09, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
+
 *D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
