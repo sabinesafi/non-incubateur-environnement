@@ -31,7 +31,7 @@ On commence la ballade en échangeant sur les attentes et en définissant le pro
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
-**Pour plus d'informations : [voir la FAQ] (./FAQ-journee-cogitation.md)**
+**Pour plus d'informations : [voir la FAQ] (../FAQ-journee-cogitation.md)**
 
 ## Qui organise ?
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
