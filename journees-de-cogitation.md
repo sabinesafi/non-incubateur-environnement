@@ -22,6 +22,7 @@ A priori les thèmes correspondants seront :
 - Faire des trucs pour réduire notre impact sur l’eau ?
 - De quoi on besoin les projets environnementaux ?
 - Comprendre les aides publics pour les projets environnementaux ?
+
 Un thème ou une date t'intéresse mais ne colle pas parfaitement pour une raison ou pour une autre ? Contacte-nous : sabine.safi at gmail.com
 
 On a aussi pensé à : 
