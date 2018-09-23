@@ -1,4 +1,4 @@
-# Rendre mon projet environnemental économiquement viable
+# Le 27/09 à Montpellier : Rendre mon projet environnemental économiquement viable
 
 On se retrouve le jeudi 27/09 pour une journée à Montpellier.
 
@@ -24,7 +24,6 @@ Les discussions sont fixées par les participant.e.s au début de la journée, �
 - Une façon d'analyser mon modèle économique
 - Des pistes de financements possibles
 - Des idées de comment générer du chiffre d'affaires selon mon activité
-- Des rencontres sympas et utiles pour mon projet
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre un projet personnel plus solide financièrement.
@@ -45,5 +44,7 @@ Avec cet argent, nous constituons un pot commun pour régler toutes les consomma
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
-Envoie simplement un email à xxxx.
+Envoie simplement un email à sabine.safi at gmail.com.
 Avant la journée, on s'appelera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
+
+**Pour plus d'informations : [voir la FAQ]()**
