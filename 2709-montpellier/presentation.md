@@ -2,7 +2,7 @@
 
 On se retrouve le jeudi 27/09 pour une journée à Montpellier.
 
-Nous alons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
+Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
 
