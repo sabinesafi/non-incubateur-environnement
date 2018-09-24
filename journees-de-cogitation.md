@@ -6,37 +6,26 @@
 - Rencontrer des gens avec qui on pourrait travailler ensuite, éventuellement des porteu·r·se·s de projet (c'est pas la priorité).
 - Mieux définir ce qu’on va faire avec notre "non-incubateur".
 
-## Dates
-- Montpellier : 5/10
-- Bordeaux : 11/10
-- Lyon : 18/10
-- Nantes : 25/10
-- Toulouse : 1/11
-- Paris : 8/11
-
-## Thèmes des journées de cogitation
-A priori les thèmes correspondants seront :
-- Comment rendre viable mon projet environnemental ?
-- Comment démarrer mon projet environnemental ? (running lean entre autres)
-- De l’idée au projet pour réduire le plastique ?
-- Faire des trucs pour réduire notre impact sur l’eau ?
-- De quoi on besoin les projets environnementaux ?
-- Comprendre les aides publics pour les projets environnementaux ?
+## Dates et thèmes
+- Montpellier : 5/10 - Comment rendre viable mon projet environnemental ?
+- Bordeaux : 11/10 - De l’idée au projet pour réduire le plastique ?
+- Lyon : 18/10 - De quoi on besoin les projets environnementaux ?
+- Nantes : 25/10 - Comment démarrer mon projet environnemental ?
+- Toulouse : 1/11 - Faire des trucs pour réduire notre impact sur l’eau ?
+- Paris : 8/11 - Comprendre les aides publics pour les projets environnementaux ?
 
 Un thème ou une date t'intéresse mais ne colle pas parfaitement pour une raison ou pour une autre ? Contacte-nous : sabine.safi at gmail.com
 
 On a aussi pensé à : 
 - Un impact environnemental positif depuis mon balcon
 - Réaliser des projets non-viables ?
-- planter des fleurs
-- planter des arbres
+- planter des fleurs, des arbres
 - Des initiatives qui ont un impact positif ?
 - Cartographier les causes et les effets liés au changement climatique ?
 - Militer ou agir ?
 - Comment passer à l’action ?
 - Comment changer l’entreprise ?
 - Comment travailler avec les collectivités locales ?
-
 
 ## Qu'est-ce qu'on y fait ?
 On va se balader dans des lieux insolites en partageant nos envies et nos connaissances sur nos activités liées à l'environnement et sur le thème défini pour la journée.
