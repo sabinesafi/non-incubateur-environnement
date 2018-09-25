@@ -4,21 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Journée de cogitation",
-        "name": "Jeudi 25 octobre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.558223,
-          47.208431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bordeaux : jeudi 11 octobre",
+        "name": "Bordeaux : jeudi 11 octobre - De l’idée au projet pour réduire le plastique ?",
         "description": "Journée de cogitation"
       },
       "geometry": {
@@ -32,8 +18,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lyon : jeudi 18 octobre",
-        "description": "Journée de cogitation"
+        "description": "",
+        "name": "Nantes : jeudi 25 octobre - Comment démarrer mon projet environnemental ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558223,
+          47.208431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyon : jeudi 18 octobre - De quoi on besoin les projets environnementaux ?",
+        "description": ""
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Journée de cogitation",
-        "name": "Montpellier : jeudi 4 octobre"
+        "description": "",
+        "name": "Montpellier : vendredi 5 octobre - Comment rendre viable mon projet environnemental ?"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toulouse : jeudi 1er octobre",
+        "name": "Toulouse : jeudi 1er novembre - Faire des trucs pour réduire notre impact sur l’eau ?",
         "description": "Journée de cogitation"
       },
       "geometry": {
@@ -68,6 +68,19 @@
         "coordinates": [
           1.452799,
           43.602161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris : jeudi 8 novembre - Comprendre les aides publics pour les projets environnementaux ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375982,
+          48.836122
         ]
       }
     }
