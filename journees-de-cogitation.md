@@ -7,12 +7,12 @@
 - Mieux définir ce qu’on va faire avec notre "non-incubateur".
 
 ## Dates et thèmes
-- Montpellier : 5/10 - Comment rendre viable mon projet environnemental ?
-- Bordeaux : 11/10 - De l’idée au projet pour réduire le plastique ?
-- Lyon : 18/10 - De quoi on besoin les projets environnementaux ?
-- Nantes : 25/10 - Comment démarrer mon projet environnemental ?
-- Toulouse : 1/11 - Faire des trucs pour réduire notre impact sur l’eau ?
-- Paris : 8/11 - Comprendre les aides publics pour les projets environnementaux ?
+- **Montpellier** : 5/10 - _Comment rendre viable mon projet environnemental ?_
+- **Bordeaux** : 11/10 - _De l’idée au projet pour réduire le plastique ?_
+- **Lyon** : 18/10 - _De quoi on besoin les projets environnementaux ?_
+- **Nantes** : 25/10 - _Comment démarrer mon projet environnemental ?_
+- **Toulouse** : 1/11 - _Faire des trucs pour réduire notre impact sur l’eau ?_
+- **Paris** : 8/11 - _Comprendre les aides publics pour les projets environnementaux ?_
 
 Un thème ou une date t'intéresse mais ne colle pas parfaitement pour une raison ou pour une autre ? Contacte-nous : sabine.safi at gmail.com
 
