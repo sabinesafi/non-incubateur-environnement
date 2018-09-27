@@ -8,4 +8,4 @@ On a mis les voiles, pour nous retrouver :
 
 - [La prochaine journée à Montpellier le 5 septembre 2018](http://www.oisiflorus.com/2709-montpellier/presentation.html)
 
-- [Le nouveau dépôt](https://github.com/oisiflorus/journee-cogitation)
+- [Le nouveau dépôt](http://www.oisiflorus.com/FAQ-journee-cogitation.html)
