@@ -1,5 +1,11 @@
 # non-incubateur-environnement
 
-Le dépôt a migré ici :
+![](https://raw.githubusercontent.com/sabinesafi/non-incubateur-environnement/master/transhumance.jpg)
 
-https://github.com/oisiflorus/journee-cogitation
+On a mis les voiles, pour nous retrouver :
+
+- [Les journées de cogitation](http://www.oisiflorus.com/journees-de-cogitation.html)
+
+- [La prochaine journée à Montpellier le 5 septembre 2018](http://www.oisiflorus.com/2709-montpellier/presentation.html)
+
+- [Le nouveau dépôt](https://github.com/oisiflorus/journee-cogitation)
